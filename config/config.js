@@ -1,4 +1,4 @@
 module.exports = {
-    secretKey:"claveSecreta",
-    tokenExpiresln:"1h"
+    secretKey:'claveSecreta',
+    tokenExpiresIn:'1h'
 };
